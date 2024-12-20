@@ -4,3 +4,8 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
+
+
+[[package.metadata.scene]]
+name = "hello-world"
+path = "scenes/hello-world.json"
